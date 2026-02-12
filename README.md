@@ -1,41 +1,53 @@
-# Olá, eu sou João Moretti 👋
 
-Sou profissional em **transição de carreira para QA (Quality Assurance)**, com sólida experiência anterior em **operações, coordenação, merchandising e atendimento ao cliente**.
+# João Marcos Moretti  
+QA Engineer | Testes Manuais | Automação com Python & Selenium
 
-Tenho perfil analítico, foco em processos, qualidade, SLA e melhoria contínua.  
-Atualmente estou me especializando em **Testes Manuais e Automação**, aplicando na prática conceitos de QA no dia a dia.
+Olá! Sou profissional em transição para a área de Quality Assurance (QA), com experiência prática em testes manuais e automação de testes para aplicações web.
+
+Minha trajetória anterior em operações e coordenação me proporcionou forte visão de processos, análise de indicadores (SLA, produtividade e qualidade) e foco em melhoria contínua — competências que aplico diretamente na garantia de qualidade de software.
 
 ---
 
-## 🧪 Atuação em QA
+## 🧪 Experiência em QA
 
-- Testes Manuais (funcionais, exploratórios e regressão)
-- Escrita e execução de **casos de teste**
-- Reporte e acompanhamento de **bugs**
-- Análise de requisitos
+- Testes manuais (funcionais, exploratórios e regressão)
+- Escrita e execução de casos de teste
+- Criação de checklists e documentação de testes
+- Reporte e acompanhamento de bugs
+- Análise e validação de requisitos
 - Validação de regras de negócio
 - Mentalidade de qualidade ponta a ponta
 
 ---
 
-## 🤖 Automação de Testes (em desenvolvimento)
+## 🤖 Automação de Testes
 
 - Python
-- Selenium
+- Selenium WebDriver
 - Page Object Model (POM)
 - Estruturação de projetos de automação
-- Git e GitHub para versionamento
+- Testes end-to-end
+- Versionamento com Git e GitHub
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas
 
 - Jira
 - Git / GitHub
 - Python
 - Selenium
 - Excel
-- Testes Manuais e Automatizados
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔹 Urban Routes – Automação de Testes
+Automação de fluxos completos utilizando Selenium com aplicação do padrão Page Object Model, validações e estrutura organizada para manutenção escalável.
+
+### 🔹 Projetos de QA Manual
+Desenvolvimento de casos de teste, checklists, relatórios de bugs e organização por sprints simulando ambiente real de projeto.
 
 ---
 
@@ -43,26 +55,22 @@ Atualmente estou me especializando em **Testes Manuais e Automação**, aplicand
 
 - Coordenação operacional
 - Gestão de equipes
-- Acompanhamento de indicadores (SLA, produtividade, qualidade)
+- Acompanhamento de indicadores (SLA, produtividade e qualidade)
 - Treinamento de equipes
 - Atendimento ao cliente
 - Resolução de problemas em ambientes de alta pressão
 
-Essa experiência fortalece minha atuação em QA com visão de negócio e operação real.
+Essa experiência fortalece minha atuação em QA com visão estratégica de negócio e foco em eficiência operacional.
 
 ---
 
-## 🚀 Objetivo
+## 🎯 Objetivo
 
-Atuar como **Analista de QA**, aplicando qualidade de software com foco em eficiência operacional, experiência do usuário e melhoria contínua.
+Atuar como QA Júnior / Analista de Qualidade, contribuindo com organização, clareza e qualidade em projetos de tecnologia.
 
 ---
 
 ## 🔗 Contato
 
-- LinkedIn: linkedin.com/in/joão-moretti-b75aa9300
-- GitHub: https://github.com/JMoretti-sys
-
----
-
-📌 *Este perfil está em constante evolução conforme avanço nos estudos e projetos de QA.*
+LinkedIn: linkedin.com/in/joao-moretti-b75aa9300  
+GitHub: github.com/JMoretti-sys
